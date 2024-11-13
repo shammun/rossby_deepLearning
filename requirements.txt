@@ -42,7 +42,7 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.7.5
 mdurl==0.1.2
-numpy==1.24.3
+numpy==1.23.5
 oauthlib==3.2.2
 opt_einsum==3.4.0
 packaging==24.1
@@ -75,7 +75,7 @@ streamlit==1.39.0
 tenacity==9.0.0
 tensorboard==2.13.0
 tensorboard-data-server==0.7.2
-tensorflow==2.13.0
+tensorflow==2.11.0
 tensorflow-estimator==2.13.0
 tensorflow-intel==2.13.0
 tensorflow-io-gcs-filesystem==0.31.0
