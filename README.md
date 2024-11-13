@@ -29,8 +29,6 @@ Welcome to the Rossby Wave Deep Learning Prediction App! This application simula
   - **Deep Learning Models**
 - 
 - **Contributing**
-- **License**
-- **Acknowledgements**
 
 ## Background
 The Rossby wave is a fundamental concept in geophysical fluid dynamics, describing large-scale motions in the Earth's atmosphere and oceans due to the planet's rotation. The two-dimensional barotropic Rossby wave equation is:
