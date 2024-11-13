@@ -66,14 +66,10 @@ $$
 We used both sinusoidal and Gaussian initial conditions in 2D:
 
 - **Sinusoidal:**
-  $$
-  \psi(x, y) = \sin(4\pi x) \sin(4\pi y)
-  $$
+  `ψ(x, y) = sin(4πx) sin(4πy)`
 
 - **Gaussian:**
-  $$
-  \psi(x, y) = \exp\left( - \frac{(x - x_{0})^{2} + (y - y_{0})^{2}}{2\sigma^{2}} \right)
-  $$
+  `ψ(x, y) = exp(- ((x - x₀)² + (y - y₀)²) / (2σ²))`
 
 ## Getting Started
 
