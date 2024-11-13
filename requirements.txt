@@ -1,5 +1,6 @@
-setuptools>=42
+setuptools==58.0.4  # Compatible version that might resolve distutils issues
 wheel
+distlib
 pip>=24.3.1
 absl-py==2.1.0
 altair==5.3.0
