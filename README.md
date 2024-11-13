@@ -27,7 +27,6 @@ Welcome to the Rossby Wave Deep Learning Prediction App! This application simula
 - **Methods**
   - **Rossby Wave Equation**
   - **Deep Learning Models**
-- 
 - **Contributing**
 
 ## Background
