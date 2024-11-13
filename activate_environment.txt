@@ -1,0 +1,18 @@
+# Create virtual environment
+python -m venv rossby_wave
+
+# cd "PHD 2025"
+# cd "Rossby Waves"
+
+# Activate virtual environment (Windows)
+rossby_wave\Scripts\activate
+
+# Run the Streamlit app
+streamlit run rossby2_4.py
+
+
+
+# Run the file using conda
+conda env list
+conda activate rossby_pinn_env
+streamlit run rossby2_4.py
