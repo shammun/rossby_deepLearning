@@ -1,6 +1,6 @@
 # Rossby Wave Deep Learning Prediction App
 
-![App](rossby_fast.gif)
+![App](rossby_fast_gif.gif)
 
 ## Introduction
 Welcome to the Rossby Wave Deep Learning Prediction App! This application simulates and predicts Rossby waves using various deep learning models, including LSTM, CNN, GAN, and Physics-Informed Neural Networks (PINNs). Built with Streamlit, it provides an interactive interface for generating wave simulations, training models, and visualizing predictions.
